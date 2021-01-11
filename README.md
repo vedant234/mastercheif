@@ -1,3 +1,3 @@
-# supply_mission
+# pizza
 
-Added sprites for helicopter, package, ground and red box. The package should be released when down arrow key is pressed
+bread,cheese,panner,tomato,capsicum,onion,topings
